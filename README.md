@@ -4,4 +4,4 @@
 
 ### 默认地址：
 
-> C:\Users\%UserProfile%\AppData\LocalLow\foxxlight\AzureArchive\data\projects
+> C:\Users\\%UserProfile%\AppData\LocalLow\foxxlight\AzureArchive\data\projects
