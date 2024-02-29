@@ -1,0 +1,29 @@
+{
+  "CharacterOverrides": [
+    {
+      "Identifier": "00",
+      "Name": "杂鱼",
+      "Nickname": "未知",
+      "CharacterReference": "소형 AMAS 드론",
+      "OriginalIdentifier": null,
+      "SpinePortraitPath": null,
+      "SmallPortraitPath": null
+    }
+  ],
+  "VoiceOverrides": [
+    "voices\\50ab6abf-d5ea-4cfd-893b-0eeefd6ae5d0.ogg",
+    "voices\\274e63b1-4d6a-4f85-a799-52bea4fb3964.ogg",
+    "voices\\f7100b6f-b179-4003-b8d5-0f5dd877c8ce.ogg",
+    "voices\\01882094-ddcd-4d46-ba5b-c5da097f1e4c.ogg",
+    "voices\\e07daed4-42df-4475-8dcc-4c2d86ee930d.ogg",
+    "voices/e07daed4-42df-4475-8dcc-4c2d86ee930d.ogg",
+    "voices/50ab6abf-d5ea-4cfd-893b-0eeefd6ae5d0.ogg",
+    "voices/274e63b1-4d6a-4f85-a799-52bea4fb3964.ogg",
+    "voices/f7100b6f-b179-4003-b8d5-0f5dd877c8ce.ogg",
+    "voices/01882094-ddcd-4d46-ba5b-c5da097f1e4c.ogg"
+  ],
+  "PopupOverrides": [],
+  "SoundOverrides": [],
+  "BgOverrides": [],
+  "BgmOverrides": []
+}
