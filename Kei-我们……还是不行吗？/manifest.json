@@ -651,13 +651,15 @@
     "voices/db7722cb-7fe5-4c4c-ae5a-a8f03917ecba.ogg",
     "voices/12f7a6d8-f1c6-4665-be68-0a31c14f8b87.ogg",
     "voices/025fc067-60e7-4f9e-9b17-4e29a71598fc.ogg",
-    "voices/a1429932-d5d9-4443-b2cb-58e55592f131.ogg"
+    "voices/a1429932-d5d9-4443-b2cb-58e55592f131.ogg",
+    "voices/2ea9232e-bd52-452c-a792-acf2f6f925b7.ogg",
+    "voices/82e649aa-b83f-4798-a324-6f8ffcb69155.ogg"
   ],
   "PopupOverrides": [],
   "SoundOverrides": [
     "sounds\\386201.ogg",
     "sounds\\81749.ogg",
-    "sounds/邦邦咔邦.mp3"
+    "sounds\\邦邦咔邦.mp3"
   ],
   "BgOverrides": [
     "bgs\\game.png",
