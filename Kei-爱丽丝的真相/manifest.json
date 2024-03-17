@@ -418,8 +418,8 @@
   "PopupOverrides": [],
   "SoundOverrides": [
     "sounds\\386201.ogg",
-    "sounds/75207_[cut_1sec].mp3",
-    "sounds/邦邦咔邦.mp3"
+    "sounds\\75207_[cut_1sec].mp3",
+    "sounds\\邦邦咔邦.mp3"
   ],
   "BgOverrides": [],
   "BgmOverrides": []
