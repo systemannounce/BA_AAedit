@@ -11,10 +11,11 @@
     }
   ],
   "VoiceOverrides": [
-    "voices\\27fb45ec-22a6-4df0-ad31-e190af38f486.ogg",
-    "voices\\aa2ee01b-4642-4527-bdc0-4ecaaf541c95.ogg",
-    "voices/27fb45ec-22a6-4df0-ad31-e190af38f486.ogg",
-    "voices/aa2ee01b-4642-4527-bdc0-4ecaaf541c95.ogg"
+    "voices/4e22549c-c6c7-4d13-977f-d4647b715aee.ogg",
+    "voices/4a0f6e6e-8818-44fc-9758-6e2d4ff8c428.ogg",
+    "voices/3e93e6a5-1153-4d9e-9e73-05ba7ba12c9c.ogg",
+    "voices/a92735f9-4e9d-4717-9906-4387e3b15672.ogg",
+    "voices/534453d9-c8e9-4cea-87aa-fafd7dc941c9.ogg"
   ],
   "PopupOverrides": [],
   "SoundOverrides": [],
